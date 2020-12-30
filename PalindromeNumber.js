@@ -8,7 +8,7 @@
 // }
 // console.log(isPalindrome(121));
 
-// SOLUTION TWO
+// SOLUTION TWO--without having to convert the number to string
 const isPalindrome = (n) => {
     if(n < 0) return false;
 
