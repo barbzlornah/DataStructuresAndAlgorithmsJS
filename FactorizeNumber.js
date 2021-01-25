@@ -61,4 +61,4 @@ function factorizeNumber(num){
       }
       return num;
 }
-console.log(factorizeNumber(5));
+console.log(factorizeNumber(5)); 
